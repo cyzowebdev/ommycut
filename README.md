@@ -118,15 +118,6 @@ When you press **Check for update**:
 - OmmyCut restarts into the new version.
 - If there is no newer zip, it shows exactly: **No new update**.
 
-To publish an update, upload a numbered zip such as:
-
-```text
-OmmyCut-GitHub-2026.11.23.1.zip
-```
-
-It must contain an `app/` folder. The highest version number wins. `latest.json` may also be used.
-
----
 
 ## Where is my data?
 
