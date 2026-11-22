@@ -2,6 +2,8 @@
 
 **OmmyCut turns long videos and livestreams into short, captioned clips — on your own computer.**
 
+**ONLY DOWNLOAD THE INSTALLER FILE & RUN IT**
+
 Paste a video or a creator's channel, choose a caption look, and OmmyCut finds the good moments, adds captions, can tag the creator, and exports ready-to-post clips. Your videos, clips, settings and PIN stay on your PC.
 
 **Built by Soham Chatterjee** · [Follow on Instagram](https://www.instagram.com/sohamdv/)  
